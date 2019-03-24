@@ -2,3 +2,4 @@ Testing Github file using "TestGit.txt" file which is placed in the Github.
 
 Test1
 Test2
+Test3
