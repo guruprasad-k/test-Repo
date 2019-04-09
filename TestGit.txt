@@ -2,7 +2,7 @@ Testing Github file using "TestGit.txt" file which is placed in the Github.
 //Added Test5 and commited on 9-Apr 11:10 AM
 //Added Test6 and commited on 9-Apr 11:20 AM
 //Added Test7 and committed on 9-Apr 11:46 AM
-
+//Added Test9 to Release branch and committed on 9-Apr 11:54 AM
 Test1
 Test2
 Test3
@@ -10,3 +10,4 @@ Test4
 Test5
 Test6
 Test7
+Test9
